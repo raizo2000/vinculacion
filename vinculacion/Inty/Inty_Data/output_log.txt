@@ -1,0 +1,76 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1120 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Proyectos\DazaU\Inty\Inty_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Proyectos\DazaU\Inty\Inty_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Proyectos\DazaU\Inty\Inty_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.723113 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.845360 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1372.
+Total: 0.665778 ms (FindLiveObjects: 0.123111 ms CreateObjectMapping: 0.048888 ms MarkObjects: 0.458222 ms  DeleteObjects: 0.034222 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 458.021484 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 24.322701 ms (FindLiveObjects: 0.115555 ms CreateObjectMapping: 0.129777 ms MarkObjects: 0.855556 ms  DeleteObjects: 23.217808 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.199558 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 0.942223 ms (FindLiveObjects: 0.107111 ms CreateObjectMapping: 0.090666 ms MarkObjects: 0.716445 ms  DeleteObjects: 0.024444 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.628000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 0.548000 ms (FindLiveObjects: 0.128889 ms CreateObjectMapping: 0.049333 ms MarkObjects: 0.343111 ms  DeleteObjects: 0.025777 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 427.317474 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 22.589363 ms (FindLiveObjects: 0.124000 ms CreateObjectMapping: 0.189333 ms MarkObjects: 1.112001 ms  DeleteObjects: 21.160917 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.441781 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 264.
+Total: 1.114668 ms (FindLiveObjects: 0.114222 ms CreateObjectMapping: 0.080000 ms MarkObjects: 0.893778 ms  DeleteObjects: 0.023555 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.630223 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1375.
+Total: 0.734223 ms (FindLiveObjects: 0.150222 ms CreateObjectMapping: 0.053777 ms MarkObjects: 0.493778 ms  DeleteObjects: 0.035111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 441.320160 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 30.402706 ms (FindLiveObjects: 0.110666 ms CreateObjectMapping: 0.128444 ms MarkObjects: 0.940445 ms  DeleteObjects: 29.219593 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3dc0 -> priority: 1 
+  Thread -> id: 380 -> priority: 1 
